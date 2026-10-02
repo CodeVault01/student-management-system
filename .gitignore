@@ -1,0 +1,7 @@
+students.db
+students_backup_before_fix.db
+__pycache__/
+build/
+dist/
+*.spec
+*.exe
